@@ -18,4 +18,8 @@ public class ConectaDB {
 			return null;
 		} 
 	}
+	
+	public static void createTables() {
+		String sql = ""
+	}
 }
