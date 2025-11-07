@@ -19,7 +19,5 @@ public class ConectaDB {
 		} 
 	}
 	
-	public static void createTables() {
-		String sql = ""
-	}
+	
 }
